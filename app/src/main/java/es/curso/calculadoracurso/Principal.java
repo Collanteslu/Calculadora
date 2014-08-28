@@ -26,6 +26,7 @@ public class Principal extends Activity {
     public Button punto;
     public TextView texto;
 
+
     public String valorPrimer;
     public String operacion;
     @Override
